@@ -4,8 +4,7 @@
 <label>User Name</label></br>
 <input type=text id="name" name="fname"/></br>
 <label>Password</label></br>
-<input type=text id="password" name="pwd"/>
-<label>Login</label></br>
-<button type=submit id="loginBtn" name="pwd"/>
+<input type=text id="password" name="pwd"/></br>
+<button type=submit id="loginBtn" name="pwd">LOGIN</button>
 </body>
 </html>
